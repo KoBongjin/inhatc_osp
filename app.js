@@ -1,5 +1,4 @@
-﻿
-// http://developer-kelvin.tistory.com/5
+﻿// app.js
 var rint = require('./rint');
 
 // 이벤트를 연결합니다.

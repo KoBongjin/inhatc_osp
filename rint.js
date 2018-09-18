@@ -1,6 +1,7 @@
-﻿// Event Emitter 객체를 생성합니다.
-//exports.timer = new process.EventEmitter();
+﻿// rint.js :: Event Emitter 객체를 생성합니다.
+// exports.timer = new process.EventEmitter();
 
+// http://developer-kelvin.tistory.com/5
 var events = require('events');
 exports.timer = new events();
 
